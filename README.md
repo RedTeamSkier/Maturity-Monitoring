@@ -1,2 +1,2 @@
-# Maturity-Monitoring
-Process to evaluate and monitor the maturity and effectiveness of cybersecurity services
+# Maturity Monitoring
+This document is an overview of how to evaluate a Cybersecurity Service and determine the CMMI maturity level.
